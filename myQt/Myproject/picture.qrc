@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>menupic.jpg</file>
+    </qresource>
+    <qresource prefix="/src">
+        <file>eye.png</file>
+        <file>delete.png</file>
+        <file>search.png</file>
+    </qresource>
+</RCC>
