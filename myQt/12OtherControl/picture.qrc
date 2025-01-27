@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/new/1">
-        <file>p1.png</file>
-        <file>p2.png</file>
-        <file>p3.png</file>
-        <file>th_pig.gif</file>
-    </qresource>
-</RCC>
